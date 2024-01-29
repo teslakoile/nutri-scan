@@ -1,0 +1,12 @@
+runtime: custom
+env: flex
+
+manual_scaling:
+  instances: 1  # Number of instances to run
+
+resources:
+  cpu: 1        # CPU cores
+  memory_gb: 1  # Memory in GB
+  disk_size_gb: 10  # Disk size in GB
+
+network: {}
