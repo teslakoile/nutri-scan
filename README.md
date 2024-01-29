@@ -1,5 +1,5 @@
-# Nutri-Bot
-Nutri-Bot is a Discord bot that provides nutritional estimates for meals based on images you provide. It utilizes OpenAI's GPT-4 Vision model to analyze images of food and return a concise breakdown of their nutritional content.
+# NutriScan
+NutriScan is a Discord bot that provides nutritional estimates for meals based on images you provide. It utilizes OpenAI's GPT-4 Vision model to analyze images of food and return a concise breakdown of their nutritional content.
 
 ## Features
 - Analyzes images of meals and provides a nutritional estimate.
@@ -35,11 +35,11 @@ OPENAI_API_KEY=your_openai_api_key
 `python bot.py`
 
 ## Usage
-To use Nutri-Bot, simply mention it in a Discord chat and attach an image of a meal. Nutri-Bot will analyze the image and provide a nutritional estimate in response.
+To use NutriScan, simply mention it in a Discord chat and attach an image of a meal. NutriScan will analyze the image and provide a nutritional estimate in response.
 
-`@Nutri-Bot`<br/><br/>
+`@NutriScan`<br/><br/>
 <img src="/assets/salad.png" alt="Salad" width="300">
 
 
 ## Credits
-Nutri-Bot uses OpenAI's GPT-4 Vision model for image analysis.
+NutriScan uses OpenAI's GPT-4 Vision model for image analysis.
