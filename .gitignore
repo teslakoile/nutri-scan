@@ -131,3 +131,5 @@ cython_debug/
 
 # Ignore VSCode settings
 .vscode/
+
+startup-script.sh
